@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/* fonsts */
+@import "./assets/css/fonts.css";
+
+/* reset */
+@import "./assets/css/reset.css";
+
+/* common */
+@import "./assets/css/common.css";
+
+/* header */
+@import "./assets/css/header.css";
+
+/* image */
+@import "./assets/css/slider.css";
+
+/* image */
+@import "./assets/css/image.css";
+
+/* imgText */
+@import "./assets/css/imgText.css";
+
+/* card */
+@import "./assets/css/card.css";
+
+/* banner */
+@import "./assets/css/banner.css";
+
+/* text */
+@import "./assets/css/text.css";
+
+/* footer */
+@import "./assets/css/footer.css";

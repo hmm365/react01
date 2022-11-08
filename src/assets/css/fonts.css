@@ -1,0 +1,10 @@
+@import url("https://webfontworld.github.io/NexonLv1Gothic/NexonLv1Gothic.css");
+@import url("https://webfontworld.github.io/gmarket/GmarketSans.css");
+.nexon {
+	font-family: "NexonLv1Gothic";
+	font-weight: 400;
+}
+.gmaket {
+	font-family: "GmarketSans";
+	font-weight: 400;
+}
